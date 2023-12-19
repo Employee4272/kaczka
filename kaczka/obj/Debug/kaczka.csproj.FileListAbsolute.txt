@@ -1,0 +1,10 @@
+C:\Users\Xopero\source\repos\kaczka\kaczka\bin\Debug\kaczka.exe.config
+C:\Users\Xopero\source\repos\kaczka\kaczka\bin\Debug\kaczka.exe
+C:\Users\Xopero\source\repos\kaczka\kaczka\bin\Debug\kaczka.pdb
+C:\Users\Xopero\source\repos\kaczka\kaczka\obj\Debug\kaczka.csproj.AssemblyReference.cache
+C:\Users\Xopero\source\repos\kaczka\kaczka\obj\Debug\kaczka.Form1.resources
+C:\Users\Xopero\source\repos\kaczka\kaczka\obj\Debug\kaczka.Properties.Resources.resources
+C:\Users\Xopero\source\repos\kaczka\kaczka\obj\Debug\kaczka.csproj.GenerateResource.cache
+C:\Users\Xopero\source\repos\kaczka\kaczka\obj\Debug\kaczka.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\source\repos\kaczka\kaczka\obj\Debug\kaczka.exe
+C:\Users\Xopero\source\repos\kaczka\kaczka\obj\Debug\kaczka.pdb
